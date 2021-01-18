@@ -4,4 +4,10 @@ this is my first timer with java script, It messed up my brain 🤕  a bit and I
 
 _By me for whoever wants_ :sweat_smile: :+1:
 
+## Technologies
+
+* HTML5
+* CSS
+* JavaScript
+
 ![Timmer Gift](video/Timer.gif "This is a gift of the Timmer")
